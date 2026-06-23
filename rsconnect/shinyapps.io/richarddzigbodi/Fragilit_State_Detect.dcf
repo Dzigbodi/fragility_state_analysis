@@ -1,0 +1,12 @@
+name: Fragilit_State_Detect
+title: Fragilit_State_Detect
+username: richarddzigbodi
+account: richarddzigbodi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15903257
+bundleId: 11543695
+url: https://richarddzigbodi.shinyapps.io/Fragilit_State_Detect/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
