@@ -1,0 +1,12 @@
+name: fragility_state_analysis
+title: fragility_state_analysis
+username: richarddzigbodi
+account: richarddzigbodi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 18226599
+bundleId: 12715561
+url: https://richarddzigbodi.shinyapps.io/fragility_state_analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
